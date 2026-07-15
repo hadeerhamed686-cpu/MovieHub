@@ -3,6 +3,10 @@
 MovieHub is a modern movie browsing application built with React.  
 Users can explore movies, search for their favorite movies, view movie details, and save movies to favorites.
 
+## 🌐 Live Demo
+
+https://movie-hub-one-roan.vercel.app/
+
 ## 🚀 Features
 
 - 🔍 Search for movies
@@ -19,7 +23,8 @@ Users can explore movies, search for their favorite movies, view movie details, 
 - React Router DOM
 - JavaScript (ES6+)
 - CSS / Tailwind CSS
-- API Integration
+- TMDB API Integration
 - Git & GitHub
+- Vercel Deployment
 
 ## 📂 Project Structure
