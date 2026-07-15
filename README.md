@@ -1,4 +1,5 @@
 # 🎬 MovieHub
+![MovieHub Screenshot](WhatsApp%20Image%202026-07-15%20at%2010.02.23%20PM.jpeg)
 
 MovieHub is a modern movie browsing application built with React.  
 Users can explore movies, search for their favorite movies, view movie details, and save movies to favorites.
