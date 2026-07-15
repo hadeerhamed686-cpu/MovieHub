@@ -1,16 +1,25 @@
-# React + Vite
+# 🎬 MovieHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MovieHub is a modern movie browsing application built with React.  
+Users can explore movies, search for their favorite movies, view movie details, and save movies to favorites.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔍 Search for movies
+- 🎥 Browse popular movies
+- 📄 View detailed information about each movie
+- ❤️ Add and remove movies from favorites
+- ⚡ Fast and responsive user interface
+- 🌙 Dark theme design
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- React Router DOM
+- JavaScript (ES6+)
+- CSS / Tailwind CSS
+- API Integration
+- Git & GitHub
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
